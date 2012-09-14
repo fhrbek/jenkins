@@ -15,6 +15,13 @@
           "image": "ami-aecd60c7",
           "role": "jenkinsserver",
           "name": "jenkins"
+        },
+        {
+          "type": "T1_MICRO",
+          "deployState": "RUNNING",
+          "image": "ami-aecd60c7",
+          "role": "jenkinsserver",
+          "name": "myjenkins"
         }
       ],
       "name": "production"
