@@ -13,7 +13,7 @@
           "type": "T1_MICRO",
           "deployState": "RUNNING",
           "image": "ami-aecd60c7",
-          "role": "jenkins",
+          "role": "jenkinsserver",
           "name": "jenkins"
         }
       ],

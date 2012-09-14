@@ -1,3 +1,3 @@
 node jenkins {
-  include 'jenkins'
+  include 'jenkinsserver'
 }
