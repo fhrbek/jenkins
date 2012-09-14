@@ -5,7 +5,7 @@
 
 require 'spec_helper'
 
-describe 'jenkins', :type => :host do
+describe 'myjenkins', :type => :host do
   # Set facts to empty hash, and expect them to be injected
   let(:facts) { { } }
 
