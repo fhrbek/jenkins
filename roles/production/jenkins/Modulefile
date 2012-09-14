@@ -1,0 +1,4 @@
+name 'fhrbek-jenkins'
+version '0.0.0'
+
+dependency 'rtyler/jenkins', '>=0.2.3'
